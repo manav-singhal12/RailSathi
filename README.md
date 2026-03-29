@@ -113,33 +113,11 @@ Cause: Generic catch block
 Fix: Proper error handling + user feedback
 📦 Installation
 # Clone the repo
-git clone https://github.com/your-username/rail-sathi.git
+git clone [https://github.com/your-username/rail-sathi.git](https://github.com/manav-singhal12/RailSathi)
 
 # Install dependencies
-cd rail-sathi
+cd RailSathi
 npm install
 
 # Start development server
 npm start
-⚙️ Environment Variables
-
-Create a .env file:
-
-GROQ_API_KEY=your_key_here
-AUTH0_SECRET=your_secret
-🎯 Future Improvements
-📍 Live train tracking
-🤖 Predictive waitlist confirmation
-🌍 Multi-language support
-📊 Advanced analytics for crowd trends
-🤝 Contributing
-
-Contributions are welcome! Feel free to open issues or submit PRs.
-
-📜 License
-
-This project is licensed under the MIT License.
-
-💡 Inspiration
-
-Built to solve real problems faced by millions of railway passengers in India — making travel smarter, safer, and stress-free.
